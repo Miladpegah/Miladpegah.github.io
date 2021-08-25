@@ -371,7 +371,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  60% { width: 60%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }

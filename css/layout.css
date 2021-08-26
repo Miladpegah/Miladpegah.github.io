@@ -340,6 +340,11 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
+.git {
+   width: 95%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
 .html5 {
   	width: 90%;
   	-moz-animation: html5 2s ease;
@@ -372,6 +377,10 @@ ul#nav li.current a { color: #F06000; }
 @-moz-keyframes css {
   0%   { width: 0px;  }
   100% { width: 60%;  }
+}
+@-moz-keyframes git {
+  0%   { width: 0px;  }
+  100% { width: 95%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }

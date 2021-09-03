@@ -335,11 +335,6 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: javascript 2s ease;
   	-webkit-animation: javascript 2s ease;
 }
-.react {
-   width: 0%;
-   -moz-animation: javascript 2s ease;
-   -webkit-animation: javascript 2s ease;
-}
 .css {
   	width: 60%;
   	-moz-animation: css 2s ease;
@@ -378,10 +373,6 @@ ul#nav li.current a { color: #F06000; }
 @-moz-keyframes javascript {
   0%   { width: 0px;  }
   100% { width: 20%;  }
-}
-@-moz-keyframes react {
-  0%   { width: 0%;  }
-  100% { width: 0%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }

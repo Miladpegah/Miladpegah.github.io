@@ -331,7 +331,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: php 2s ease;
 }
 .javascript {
-  	width: 20%;
+  	width: 50%;
   	-moz-animation: javascript 2s ease;
   	-webkit-animation: javascript 2s ease;
 }
@@ -350,20 +350,20 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
+.react {
   	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: react 2s ease;
+  	-webkit-animation: react 2s ease;
 }
 .livewire {
    width: 75%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: livewire 2s ease;
+   -webkit-animation: livewire 2s ease;
 }
 .unix {
    width: 50%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: unix 2s ease;
+   -webkit-animation: unix 2s ease;
 }
 
 @-moz-keyframes php {
@@ -372,7 +372,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 20%;  }
+  100% { width: 50%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
@@ -386,7 +386,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes jquesry {
+@-moz-keyframes react {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }

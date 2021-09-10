@@ -1,7 +1,7 @@
 
 # About Mohamad raza(Milad) pegah
 
-Hassan Azimi is created for personal use from scratch with the help of NPM, jQuery and Tachyons.
+Mohamad raza pegah is created for personal use from scratch with the help of NPM, reactJS and Tachyons.
 
 # Licence
 
